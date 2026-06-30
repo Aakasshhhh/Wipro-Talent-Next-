@@ -14,3 +14,4 @@ list.append(more_items)
 print("Updated List contents:")
 for i in range(len(list)):
     print(f"Element at index {i}: {list[i]}")   
+    
